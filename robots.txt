@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://goldiec-dev.github.io/sitemap.xml
