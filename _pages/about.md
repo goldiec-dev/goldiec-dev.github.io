@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-You've found my webpage! Chances are you met me at school or at a cyber security competition. I love to learn ...
+You've found my webpage! Chances are you met me at school or at a cyber security competition. 
 
 I am currently working for the [Indiana Cyber Network](https://www.indianacybernetwork.org/home) as a Apprentice Cyber Security Analyst.
 
@@ -33,4 +33,6 @@ Im always looking for people who are interested in aiding in competition practic
 
 - contact me at goldiejean112@gmail.com or on discord (goldie3954)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Insta:
+LinkedIn:
+
